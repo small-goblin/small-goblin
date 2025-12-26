@@ -1,11 +1,6 @@
 I specialize in cyber security, but I have a general interest in engeering.
 
-Current Projects
-- Game Modding Panel 4 Magfest 
-- Visual Novel (tbd)
-- Agent Exploitablity PoCs
-
- Check out my [blog](https://crashedout.dev/) for other stuff I'm doing (or have done).
+ Check out my [blog](https://crashedout.dev/) for stuff I'm doing (or have done).
 <!--
 **small-goblin/small-goblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
